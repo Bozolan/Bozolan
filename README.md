@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bozolan
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning about new programming tools
 - 🌱 I’m currently learning ...  
-- 💞️ I’m looking to collaborate  com novas práticas de progrmação
-- 
+- 💞️ I’m looking to collaborate with new programming practices
+- 💞️ I love to learn
 
 <!---
 Bozolan/Bozolan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
